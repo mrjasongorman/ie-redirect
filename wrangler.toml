@@ -1,0 +1,9 @@
+name = "ie-redirect"
+type = "javascript"
+
+account_id = ""
+workers_dev = false
+routes = ["https://my-website.com/*"]
+zone_id = ""
+compatibility_date = "2022-01-15"
+
