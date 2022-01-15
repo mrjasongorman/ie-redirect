@@ -1,4 +1,4 @@
-const destinationURL = "https://example.com";
+const destinationURL = "https://www.microsoft.com/en-us/edge";
 const statusCode = 301;
 
 async function handleRequest(request) {
